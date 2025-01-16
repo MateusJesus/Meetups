@@ -15,7 +15,7 @@ const NewMeetups = () => {
 
   return (
     <section>
-      <h1>Add New Meetups</h1>
+      <h1>Add New Meetup</h1>
       <NewMeetupForm dataForm={onCreateNewMeetup} />
     </section>
   );
