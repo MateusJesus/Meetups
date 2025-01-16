@@ -20,6 +20,11 @@
   border: 1px solid #ccc;
   padding: 0.25rem;
   width: 100%;
+  box-sizing: border-box;
+}
+
+.control textarea {
+  resize: none; 
 }
 
 .actions {
